@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhil-bharadwaj-yellapragada-48321a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil bharadwaj yellapragada" height="30" width="40" /></a>
+<a href="https://kaggle.com/nikhil20012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikhil20012" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhil20012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil20012" height="30" width="40" /></a>
 </p>
 
