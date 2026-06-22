@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Nikhil%20Bharadwaj%20Yellapragada&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%26%20Data%20Engineering%20|%20MS%20Data%20Analytics%20Engineering%20@%20Northeastern&descSize=14&descAlignY=55&descColor=8B949E)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Nikhil%20Bharadwaj%20Yellapragada&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI/ML%20and%20Data%20Engineering%20|%20Northeastern%20University&descSize=14&descAlignY=55&descColor=8B949E)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-bharadwaj-yellapragada-48321a211)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yellapragada.n@northeastern.edu)
