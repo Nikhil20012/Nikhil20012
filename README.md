@@ -1,26 +1,41 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Nikhil%20Bharadwaj%20Yellapragada&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI/ML%20and%20Data%20Engineering%20|%20Northeastern%20University&descSize=14&descAlignY=55&descColor=8B949E)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Nikhil+Bharadwaj+Yellapragada;AI%2FML+%26+Data+Engineering;MS+%40+Northeastern+%7C+Ex-PwC;Aspiring+LLMOps+Engineer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-bharadwaj-yellapragada-48321a211)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yellapragada.n@northeastern.edu)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/nikhil20012)
-[![Profile Views](https://komarev.com/ghpvc/?username=nikhil20012&color=58A6FF&style=flat&label=Profile+Views)](https://github.com/Nikhil20012)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-bharadwaj-yellapragada-48321a211)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yellapragada.n@northeastern.edu)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/nikhil20012)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil20012)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil20012&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+---
 
-### Hey! I'm Nikhil 👋
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2 years at **PwC India** building production systems that actually saved people thousands of hours of work.
+### 👨‍💻 About Me
 
-Currently on a mission to become an **LLMOps Engineer** by August — somewhere between training Vision Transformers and convincing my code to compile on the first try.
+MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2 years at **PwC India** building production systems that saved thousands of hours of manual work.
 
-- 🔭 Building a **computer vision research system** using ViT-B/16 to detect hidden paintings beneath other paintings (yes, actual hidden art)
-- 🎵 Built a **real-time music recommender** on GCP — presented at **Google's MLOps Expo**
-- 🎯 Looking for **Fall 2026 co-ops** in AI/ML, Data Engineering, and Data Science
-- ⚡ Once built a bot so efficient at processing PDFs it started judging my file organization skills
+Currently on a mission to become an **LLMOps Engineer** — somewhere between training Vision Transformers and convincing my code to compile on the first try.
+
+```python
+class Nikhil:
+    def __init__(self):
+        self.role = "AI/ML & Data Engineer"
+        self.education = "MS Data Analytics Engineering @ Northeastern"
+        self.experience = "2 years @ PwC India"
+        self.current_focus = ["Deep Learning", "LLMs", "Data Pipelines on Azure"]
+        self.goal = "LLMOps Engineer by August 2026"
+        self.fun_fact = "Built a bot so efficient it judges my file organization"
+
+    def is_open_to_work(self):
+        return "Fall 2026 Co-ops: AI/ML, Data Engineering, Data Science"
+```
 
 <br clear="both">
 
@@ -37,13 +52,12 @@ Currently on a mission to become an **LLMOps Engineer** by August — somewhere 
 
 Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeline via Dataflow, KL divergence drift detection, Terraform infra, 73% CI/CD coverage across 741 tests.
 
-**Presented at Google MLOps Expo** 🎤
+🎤 **Presented at Google MLOps Expo**
 
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 </p>
@@ -54,7 +68,7 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 ### [🧠 EEG Seizure Detection](https://github.com/Nikhil20012/eeg-seizure-detection)
 **Clinical ML for Epilepsy Detection**
 
-93.4% accuracy, 0.995 AUC on CHB-MIT and Bonn datasets. Beat baseline CNN by 22 F1 points. Reduced 4,097 raw inputs to just 5 engineered features using Recurrence Quantification Analysis.
+93.4% accuracy, 0.995 AUC on CHB-MIT and Bonn datasets. Beat baseline CNN by 22 F1 points. Reduced 4,097 raw inputs to 5 engineered features using Recurrence Quantification Analysis.
 
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -103,51 +117,54 @@ Detecting hidden paintings using ViT-B/16 with synthetic training data. Medallio
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>Languages & Core</b></summary>
+<details open>
+<summary><b>Languages</b></summary>
 <br>
 <p>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>ML / Deep Learning</b></summary>
 <br>
 <p>
-<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-<a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://keras.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Cloud & DevOps</b></summary>
 <br>
 <p>
-<a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
-<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Databases</b></summary>
 <br>
 <p>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://neo4j.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://neo4j.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -155,20 +172,28 @@ Detecting hidden paintings using ViT-B/16 with synthetic training data. Medallio
 
 <div align="center">
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil20012&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhil20012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil20012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil20012&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" alt="activity"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil20012&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil20012&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-<i>"The best way to predict the future is to build it."</i>
-<br><br>
-<b>Open to Fall 2026 co-op opportunities in AI/ML, Data Engineering, and Data Science</b>
-</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer)
+### 💡 Open to Fall 2026 Co-op Opportunities
+**AI/ML Engineering · Data Engineering · Data Science**
+
+<i>"The best way to predict the future is to build it."</i>
+
+</div>
