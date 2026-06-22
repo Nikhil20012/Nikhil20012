@@ -175,16 +175,7 @@ Detecting hidden paintings using ViT-B/16 with synthetic training data. Medallio
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhil20012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil20012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil20012&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br><br>
+## 📊 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil20012&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 
