@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 About Me
 
@@ -150,7 +150,7 @@ Detecting hidden paintings using ViT-B/16 with synthetic training data. Medallio
 <br>
 <p>
 <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.databricks.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>&nbsp;&nbsp;
