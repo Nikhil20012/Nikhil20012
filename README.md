@@ -20,7 +20,7 @@
 
 MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2 years at **PwC India** building production systems that saved thousands of hours of manual work.
 
-Currently on a mission to become an **LLMOps Engineer** — somewhere between training Vision Transformers and convincing my code to compile on the first try.
+Currently on a mission to become an **LLMOps Engineer** - somewhere between training Vision Transformers and convincing my code to compile on the first try.
 
 <br clear="both">
 
