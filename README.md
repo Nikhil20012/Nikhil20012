@@ -99,7 +99,7 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 <td width="50%" valign="top">
 
 ### 🎨 Painting in a Painting `IN PROGRESS`
-**CV Research — Hidden Layer Detection**
+**CV Research - Hidden Layer Detection**
 
 Detecting hidden paintings using ViT-B/16 with synthetic training data. Medallion architecture on Azure with Databricks, ADF, and Power BI. Research paper in progress.
 
