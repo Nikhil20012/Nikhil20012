@@ -124,10 +124,10 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <br>
 <p>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -141,7 +141,27 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://optuna.org/"><img src="https://optuna.org/assets/img/optuna-logo.png" width="40" height="40"/></a>
+</p>
+</details>
+
+<details open>
+<summary><b>BI & Visualization</b></summary>
+<br>
+<p>
+<a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Automation</b></summary>
+<br>
+<p>
+<a href="https://www.uipath.com/"><img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://powerplatform.microsoft.com/"><img src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -152,6 +172,8 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.getdbt.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -165,13 +187,14 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <summary><b>Databases</b></summary>
 <br>
 <p>
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://cloud.google.com/bigquery"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://neo4j.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
 </p>
 </details>
-
 ---
 
 <div align="center">
