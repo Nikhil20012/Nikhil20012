@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2.5 years of industry experience at **PwC India** and **Wipro**, building enterprise automation, data pipelines, and intelligent systems across Azure, SQL Server, and Python.
+MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with over 2.5 years of industry experience at **PwC India** and **Wipro**, building enterprise automation, data pipelines, and intelligent systems across Azure, SQL Server, and Python.
 
 Focused on building production AI systems across deep learning, LLM applications, and cloud-native data platforms.
 
