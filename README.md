@@ -172,7 +172,6 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" height="28"/>
 <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
