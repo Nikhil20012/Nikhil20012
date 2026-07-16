@@ -151,13 +151,13 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <summary><b>LLMs & Generative AI</b></summary>
 <br>
 <p>
-<a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/langchain-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/langgraph-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://ollama.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/ollama-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.pinecone.io/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/pinecone-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://openai.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/openai-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/huggingface-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.anthropic.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/claude-color.svg" width="40" height="40"/></a>
+<a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://ollama.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.pinecone.io/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/pinecone-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://openai.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.anthropic.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -185,7 +185,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <p>
 <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-fabric"><img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_product.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/microsoft-fabric"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/microsoft-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
