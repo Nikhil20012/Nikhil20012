@@ -101,7 +101,7 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 ### [🎨 Painting in a Painting](https://github.com/Nikhil20012/PaintingInAPainting) `IN PROGRESS`
 **CV Research - Hidden Layer Detection**
 
-Detecting hidden paintings using ViT-B/16 with synthetic training data. Medallion architecture on Azure with Databricks, Airflow, and Power BI. Research paper in progress.
+Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. Medallion pipeline on Azure (Databricks + ADLS Gen2), orchestrated with Airflow, tracked with MLflow.
 
 <p>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
