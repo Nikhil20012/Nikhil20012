@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi+%F0%9F%91%8B+I'm+Nikhil+Bharadwaj+Yellapragada;AI%2FML+%26+Data+Engineering;MS+%40+Northeastern+%7C+Ex-PwC;Aspiring+LLMOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi+%F0%9F%91%8B+I'm+Nikhil+Bharadwaj+Yellapragada;AI%2FML+%26+Data+Engineering;MS+%40+Northeastern+%7C+Ex-PwC;Building+LLMOps+%26+Production+AI+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -31,7 +31,7 @@ class Nikhil:
         self.education = "MS Data Analytics Engineering @ Northeastern"
         self.experience = "2.5 years @ PwC India"
         self.current_focus = ["Deep Learning", "LLMs & Agentic AI", "Data Pipelines on Azure"]
-        self.goal = "LLMOps Engineer by August 2026"
+        self.goal = Building production-grade AI systems with LLMOps & MLOps
         self.fun_fact = "Built a bot so efficient it judges my file organization"
 
     def is_open_to_work(self):
