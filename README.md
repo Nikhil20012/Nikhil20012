@@ -154,7 +154,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://ollama.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.pinecone.io/"><img src="https://cdn.simpleicons.org/pinecone" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.pinecone.io/"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://openai.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.anthropic.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" width="40" height="40"/></a>
