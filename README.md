@@ -31,7 +31,7 @@ class Nikhil:
     def __init__(self):
         self.role = "AI/ML & Data Engineer"
         self.education = "MS Data Analytics Engineering @ Northeastern"
-        self.experience = "2.5 years @ PwC India"
+        self.experience = "Enterprise AI, Automation & Data Engineering"
         self.current_focus = ["Deep Learning", "LLMs & Agentic AI", "Data Pipelines on Azure"]
         self.focus = "Building production-grade AI systems with LLMOps & MLOps"
         self.fun_fact = "Built a bot so efficient it judges my file organization"
