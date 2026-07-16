@@ -29,7 +29,7 @@ class Nikhil:
     def __init__(self):
         self.role = "AI/ML & Data Engineer"
         self.education = "MS Data Analytics Engineering @ Northeastern"
-        self.experience = "2 years @ PwC India"
+        self.experience = "2.5 years @ PwC India"
         self.current_focus = ["Deep Learning", "LLMs", "Data Pipelines on Azure"]
         self.goal = "LLMOps Engineer by August 2026"
         self.fun_fact = "Built a bot so efficient it judges my file organization"
