@@ -175,7 +175,7 @@ Feature Engineering • Data Pipelines • Cloud-Native ML
 </details>
 
 <details open>
-<summary><b>LLMs & Generative AI</b></summary>
+<summary><b>LLMs, Generative AI & Agentic Systems</b></summary>
 <br>
 <p>
 <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
