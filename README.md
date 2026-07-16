@@ -20,7 +20,9 @@
 
 MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2.5 years at **PwC India** building production systems that saved thousands of hours of manual work.
 
-Currently on a mission to become an **LLMOps Engineer** - somewhere between training Vision Transformers and convincing my code to compile on the first try.
+Focused on building production AI systems across deep learning, LLM applications, and cloud-native data platforms.
+
+Currently exploring LLMOps, agentic AI workflows, and scalable ML infrastructure.
 
 <br clear="both">
 
@@ -31,7 +33,7 @@ class Nikhil:
         self.education = "MS Data Analytics Engineering @ Northeastern"
         self.experience = "2.5 years @ PwC India"
         self.current_focus = ["Deep Learning", "LLMs & Agentic AI", "Data Pipelines on Azure"]
-        self.goal = Building production-grade AI systems with LLMOps & MLOps
+        self.focus = "Building production-grade AI systems with LLMOps & MLOps"
         self.fun_fact = "Built a bot so efficient it judges my file organization"
 
     def is_open_to_work(self):
@@ -39,6 +41,17 @@ class Nikhil:
 ```
 
 <br clear="both">
+
+---
+
+## 💼 Professional Experience
+
+### PwC India | Associate RPA Developer
+
+- Built enterprise automation solutions using Python, UiPath, Power Automate, SQL Server, and Azure
+- Automated business workflows processing 1,000+ records weekly
+- Reduced manual processing effort by 70% through intelligent automation
+- Developed OCR-based invoice processing applications using Microsoft Power Platform
 
 ---
 
@@ -66,38 +79,6 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 </td>
 <td width="50%" valign="top">
 
-### [🧠 EEG Seizure Detection](https://github.com/Nikhil20012/eeg-seizure-detection)
-**Clinical ML for Epilepsy Detection**
-
-93.4% accuracy, 0.995 AUC on CHB-MIT and Bonn datasets. Beat baseline CNN by 22 F1 points. Reduced 4,097 raw inputs to 5 engineered features using Recurrence Quantification Analysis.
-
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🚇 MBTA Transit System](https://github.com/Nikhil20012/EZTRANZIT)
-**Database Engineering + Analytics**
-
-34-table database (4NF), 50+ SQL queries with JOINs, CTEs, window functions. Automated ETL, MongoDB integration, Streamlit dashboard. Cut manual analysis by ~40%.
-
-<p>
-<img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
 ### [🎨 Painting in a Painting](https://github.com/Nikhil20012/PaintingInAPainting) `IN PROGRESS`
 **CV Research - Hidden Layer Detection**
 
@@ -113,7 +94,46 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🧠 EEG Seizure Detection](https://github.com/Nikhil20012/eeg-seizure-detection)
+**Clinical ML for Epilepsy Detection**
+
+93.4% accuracy, 0.995 AUC on CHB-MIT and Bonn datasets. Beat baseline CNN by 22 F1 points. Reduced 4,097 raw inputs to 5 engineered features using Recurrence Quantification Analysis.
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### [🚇 MBTA Transit System](https://github.com/Nikhil20012/EZTRANZIT)
+**Database Engineering + Analytics**
+
+34-table database (4NF), 50+ SQL queries with JOINs, CTEs, window functions. Automated ETL, MongoDB integration, Streamlit dashboard. Cut manual analysis by ~40%.
+
+<p>
+<img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 </table>
+
+---
+
+## ⚙️ Engineering Practices
+
+MLOps • LLMOps • CI/CD • Model Monitoring • Experiment Tracking •
+Feature Engineering • Data Pipelines • Cloud-Native ML
 
 ---
 
@@ -210,6 +230,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <a href="https://neo4j.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
 </p>
 </details>
+
 ---
 
 <div align="center">
@@ -227,6 +248,6 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 ### 💡 Open to Fall 2026 Co-op Opportunities
 **AI/ML Engineering · Data Engineering · Data Science**
 
-<i>"The best way to predict the future is to build it."</i>
+<i>Building intelligent systems where data, models, and infrastructure meet.</i>
 
 </div>
