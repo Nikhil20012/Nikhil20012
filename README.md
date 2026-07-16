@@ -30,7 +30,7 @@ class Nikhil:
         self.role = "AI/ML & Data Engineer"
         self.education = "MS Data Analytics Engineering @ Northeastern"
         self.experience = "2.5 years @ PwC India"
-        self.current_focus = ["Deep Learning", "LLMs", "Data Pipelines on Azure"]
+        self.current_focus = ["Deep Learning", "LLMs & Agentic AI", "Data Pipelines on Azure"]
         self.goal = "LLMOps Engineer by August 2026"
         self.fun_fact = "Built a bot so efficient it judges my file organization"
 
@@ -148,6 +148,20 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 </details>
 
 <details open>
+<summary><b>LLMs & Generative AI</b></summary>
+<br>
+<p>
+<a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/langchain-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/langgraph-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://ollama.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/ollama-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.pinecone.io/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/pinecone-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://openai.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/openai-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/huggingface-color.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.anthropic.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/claude-color.svg" width="40" height="40"/></a>
+</p>
+</details>
+
+<details open>
 <summary><b>BI & Visualization</b></summary>
 <br>
 <p>
@@ -171,6 +185,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <p>
 <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/microsoft-fabric"><img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_product.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
