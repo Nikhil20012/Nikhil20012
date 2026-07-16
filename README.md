@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2.5 years at **PwC India** building production systems that saved thousands of hours of manual work.
+MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2.5 years of industry experience at **PwC India** and **Wipro**, building enterprise automation, data pipelines, and intelligent systems across Azure, SQL Server, and Python.
 
 Focused on building production AI systems across deep learning, LLM applications, and cloud-native data platforms.
 
@@ -46,12 +46,21 @@ class Nikhil:
 
 ## 💼 Professional Experience
 
-### PwC India | Associate RPA Developer
+### PwC India | Associate RPA Developer `Jul 2023 - Jul 2025`
 
-- Built enterprise automation solutions using Python, UiPath, Power Automate, SQL Server, and Azure
-- Automated business workflows processing 1,000+ records weekly
-- Reduced manual processing effort by 70% through intelligent automation
-- Developed OCR-based invoice processing applications using Microsoft Power Platform
+- Led migration of enterprise HCM automation from UiPath to Power Automate, processing 1,000+ records weekly across SQL Server and Azure
+- Built an end-to-end OCR invoice processing app on Microsoft Power Platform (PowerApps, Dataverse, AI Builder), cutting manual intervention by ~85%
+- Engineered the ingestion layer of a medallion architecture pipeline on Azure (Data Factory, Blob Storage, Databricks), delivering Power BI dashboards that reduced reporting effort by 70%
+
+### PwC India | RPA Intern `Jan 2023 - Jul 2023`
+
+- Deployed UiPath-Python automations to extract structured data from 1,500+ PDFs using Tabula, regex, and Pandas
+- Built and maintained automated data extraction bots across client engagements, processing 500+ files weekly
+
+### Wipro Ltd | Summer Intern `Jun 2022 - Jul 2022`
+
+- Built an NLP text similarity module using Python vectorization techniques, achieving 96% accuracy
+- Created Tableau dashboards for duplicate report analysis, reducing redundant entries by 25%
 
 ---
 
