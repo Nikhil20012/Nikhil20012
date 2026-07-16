@@ -142,8 +142,8 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://optuna.org/"><img src="https://optuna.org/assets/img/optuna-logo.png" width="40" height="40"/></a>
+<a href="https://mlflow.org/"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://optuna.org/"><img src="https://cdn.simpleicons.org/optuna/3366CC" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -152,7 +152,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <br>
 <p>
 <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.tableau.com/"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/></a>
+<a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -160,7 +160,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <summary><b>Automation</b></summary>
 <br>
 <p>
-<a href="https://www.uipath.com/"><img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.uipath.com/"><img src="https://cdn.simpleicons.org/uipath/FA4616" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://powerplatform.microsoft.com/"><img src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" width="40" height="40"/></a>
 </p>
 </details>
@@ -172,7 +172,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.getdbt.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.getdbt.com/"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
