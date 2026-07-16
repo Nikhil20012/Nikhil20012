@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 About Me
 
