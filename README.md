@@ -166,7 +166,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <br>
 <p>
 <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40"/></a>&nbsp;&nbsp;
 </p>
 </details>
 
