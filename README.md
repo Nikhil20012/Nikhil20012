@@ -97,6 +97,9 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pinecone-000?style=flat-square&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Claude-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
 </td>
