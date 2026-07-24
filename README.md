@@ -179,6 +179,7 @@ Feature Engineering • Data Pipelines • Cloud-Native ML
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://mlflow.org/"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://optuna.org/"><img src="https://cdn.simpleicons.org/optuna/3366CC" width="40" height="40"/></a>
+<a href="https://lightgbm.readthedocs.io/"><img src="https://cdn.simpleicons.org/lightgbm/02569B" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -202,6 +203,7 @@ Feature Engineering • Data Pipelines • Cloud-Native ML
 <p>
 <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="120" height="40"/></a>&nbsp;&nbsp;
+<a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -231,6 +233,11 @@ Feature Engineering • Data Pipelines • Cloud-Native ML
 <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+<a href="https://kafka.apache.org/"><img src="https://cdn.simpleicons.org/apachekafka/231F20" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/s3/"><img src="https://cdn.simpleicons.org/amazons3/569A31" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/lambda/"><img src="https://cdn.simpleicons.org/awslambda/FF9900" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 </details>
 
@@ -242,6 +249,7 @@ Feature Engineering • Data Pipelines • Cloud-Native ML
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com/bigquery"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://neo4j.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
 </p>
