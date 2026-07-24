@@ -148,8 +148,9 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 
 ## ⚙️ Engineering Practices
 
-MLOps • LLMOps • CI/CD • Model Monitoring • Experiment Tracking •
-Feature Engineering • Data Pipelines • Cloud-Native ML
+MLOps • LLMOps • CI/CD • Experiment Tracking • Feature Engineering •
+Data Pipelines • Streaming & Batch Ingestion • Data Quality Testing •
+Model Serving • RAG Pipelines
 
 ---
 
