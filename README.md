@@ -119,18 +119,23 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
-</td>
 <td width="50%" valign="top">
 
-### [🚇 MBTA Transit System](https://github.com/Nikhil20012/EZTRANZIT)
-**Database Engineering + Analytics**
+### [⚡ VoltSense](https://github.com/Nikhil20012/VoltSense) `IN PROGRESS`
+**EV Charging Demand Intelligence Platform**
 
-34-table database (4NF), 50+ SQL queries with JOINs, CTEs, window functions. Automated ETL, MongoDB integration, Streamlit dashboard. Cut manual analysis by ~40%.
+200-station simulation, ~165K events/day via Kafka into Snowflake. 15 dbt models with 29 tests, Haversine spatial demand features. LightGBM forecasting (25 features), Airflow DAG, Power BI + Streamlit dashboards, Lambda + S3 for batch ingestion.
 
 <p>
-<img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
