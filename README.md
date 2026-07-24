@@ -179,7 +179,6 @@ Feature Engineering • Data Pipelines • Cloud-Native ML
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://mlflow.org/"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://optuna.org/"><img src="https://cdn.simpleicons.org/optuna/3366CC" width="40" height="40"/></a>
-<a href="https://lightgbm.readthedocs.io/"><img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=microsoft&logoColor=white" height="28"/></a>&nbsp;&nbsp;
 </p>
 </details>
 
@@ -235,8 +234,6 @@ Feature Engineering • Data Pipelines • Cloud-Native ML
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/"><img src="https://cdn.simpleicons.org/apachekafka/231F20" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28"/></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" height="28"/></a>&nbsp;&nbsp;
 <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 </details>
