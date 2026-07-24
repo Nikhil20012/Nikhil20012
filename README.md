@@ -68,24 +68,6 @@ class Nikhil:
 <tr>
 <td width="50%" valign="top">
 
-### [🎵 AuxLess](https://github.com/Nikhil20012/AuxLess)
-**Real-time AI Music Recommender**
-
-Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeline via Dataflow, KL divergence drift detection, Terraform infra, 73% CI/CD coverage across 741 tests.
-
-🎤 **Presented at Google MLOps Expo**
-
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
 ### [🎨 Painting in a Painting](https://github.com/Nikhil20012/PaintingInAPainting) `IN PROGRESS`
 **CV Research - Hidden Layer Detection**
 
@@ -103,22 +85,6 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 </p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🧠 EEG Seizure Detection](https://github.com/Nikhil20012/eeg-seizure-detection)
-**Clinical ML for Epilepsy Detection**
-
-93.4% accuracy, 0.995 AUC on CHB-MIT and Bonn datasets. Beat baseline CNN by 22 F1 points. Reduced 4,097 raw inputs to 5 engineered features using Recurrence Quantification Analysis.
-
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-
 <td width="50%" valign="top">
 
 ### [⚡ VoltSense](https://github.com/Nikhil20012/VoltSense) `IN PROGRESS`
@@ -137,6 +103,41 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🎵 AuxLess](https://github.com/Nikhil20012/AuxLess)
+**Real-time AI Music Recommender**
+
+Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeline via Dataflow, KL divergence drift detection, Terraform infra, 73% CI/CD coverage across 741 tests.
+
+🎤 **Presented at Google MLOps Expo**
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### [🧠 EEG Seizure Detection](https://github.com/Nikhil20012/eeg-seizure-detection)
+**Clinical ML for Epilepsy Detection**
+
+93.4% accuracy, 0.995 AUC on CHB-MIT and Bonn datasets. Beat baseline CNN by 22 F1 points. Reduced 4,097 raw inputs to 5 engineered features using Recurrence Quantification Analysis.
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 </td>
