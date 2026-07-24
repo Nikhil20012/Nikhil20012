@@ -204,7 +204,7 @@ Model Serving • RAG Pipelines
 <p>
 <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="120" height="40"/></a>&nbsp;&nbsp;
-<a href="https://streamlit.com/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/></a>
+<a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/></a>
 </p>
 </details>
 
