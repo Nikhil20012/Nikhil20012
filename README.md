@@ -90,7 +90,7 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 ### [⚡ VoltSense](https://github.com/Nikhil20012/VoltSense) `IN PROGRESS`
 **EV Charging Demand Intelligence Platform**
 
-200-station simulation, ~165K events/day via Kafka into Snowflake. 15 dbt models with 29 tests, Haversine spatial demand features. LightGBM forecasting (25 features), Airflow DAG, Power BI + Streamlit dashboards, Lambda + S3 for batch ingestion.
+200-station simulation, ~164K events/day via Kafka into Snowflake. 14 dbt models with 34 tests, Haversine spatial demand features. LightGBM forecasting (26 features), FastAPI serving, Airflow DAG, Streamlit dashboards, Lambda + S3 for batch ingestion.
 
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
