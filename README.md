@@ -30,7 +30,7 @@ class Nikhil:
         self.role = "AI/ML & Data Engineer"
         self.education = "MS Data Analytics Engineering @ Northeastern"
         self.experience = "Enterprise AI, Automation & Data Engineering"
-        self.current_focus = ["Deep Learning", "LLMs & Agentic AI", "Data Pipelines on Azure"]
+        self.current_focus = ["Deep Learning", "LLMs & Agentic AI", "Data Pipelines on AWS, Azure & GCP"]
         self.focus = "Building production-grade AI systems with LLMOps & MLOps"
         self.fun_fact = "Built a bot so efficient it judges my file organization"
 
@@ -110,6 +110,27 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <tr>
 <td width="50%" valign="top">
 
+### [🏦 EarlyBird](https://github.com/Nikhil20012/EarlyBird) `IN PROGRESS`
+**Mortgage Prepayment Risk Model on AWS**
+
+7M loan-month records from Freddie Mac, PySpark ETL on EMR, Redshift star schema (5 dims, 2 facts), XGBoost with temporal split and 98:1 class imbalance handling. Domain features (SATO, burnout index, seasoning curve). Lambda + API Gateway serving, Step Functions orchestration, 38 tests.
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amazon%20EMR-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Step%20Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 ### [🎵 AuxLess](https://github.com/Nikhil20012/AuxLess)
 **Real-time AI Music Recommender**
 
@@ -126,6 +147,8 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [🧠 EEG Seizure Detection](https://github.com/Nikhil20012/eeg-seizure-detection)
@@ -140,6 +163,8 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
