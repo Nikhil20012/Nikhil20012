@@ -219,6 +219,7 @@ Model Serving • RAG Pipelines
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://mlflow.org/"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://optuna.org/"><img src="https://cdn.simpleicons.org/optuna/3366CC" width="40" height="40"/></a>
+<a href="https://wandb.ai/"><img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="40" height="40"/></a>
 </p>
 </details>
 
@@ -243,6 +244,7 @@ Model Serving • RAG Pipelines
 <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="120" height="40"/></a>&nbsp;&nbsp;
 <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/></a>
+<a href="https://gradio.app/"><img src="https://cdn.simpleicons.org/gradio/F97316" width="40" height="40"/></a>
 </p>
 </details>
 
