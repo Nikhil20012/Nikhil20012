@@ -110,6 +110,22 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 <tr>
 <td width="50%" valign="top">
 
+### [👁️ MedFuse](https://github.com/Nikhil20012/MedFuse) `IN PROGRESS`
+**Synthetic DR Fundus Generation with Diffusion Models**
+
+LoRA-adapted Stable Diffusion 2.1 fine-tuned on APTOS 2019 to generate grade-conditioned retinal fundus images for underrepresented severe DR classes. Dual-track evaluation via FID/LPIPS and downstream EfficientNet-B0 ablation study across 5 synthetic-to-real ratios. Gradio demo on HF Spaces.
+
+<p>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Stable%20Diffusion-A100FF?style=flat-square&logo=stability-ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 ### [🏦 EarlyBird](https://github.com/Nikhil20012/EarlyBird) `IN PROGRESS`
 **Mortgage Prepayment Risk Model on AWS**
 
@@ -129,6 +145,8 @@ Detecting hidden paintings using ViT-B/16 trained on 50K synthetic composites. M
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [🎵 AuxLess](https://github.com/Nikhil20012/AuxLess)
@@ -147,8 +165,6 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [🧠 EEG Seizure Detection](https://github.com/Nikhil20012/eeg-seizure-detection)
@@ -164,11 +180,8 @@ Hybrid CBF/CF/GRU engine (1M parameters) over 81K songs on GCP. Streaming pipeli
 </p>
 
 </td>
-<td width="50%" valign="top">
-</td>
 </tr>
 </table>
-
 ---
 
 ## ⚙️ Engineering Practices
