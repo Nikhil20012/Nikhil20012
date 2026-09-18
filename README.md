@@ -301,17 +301,17 @@ Model Serving • RAG Pipelines
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil20012&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nikhil20012&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil20012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 <div align="center">
 
-### 💡 Open to Fall 2026 Co-op Opportunities
-**AI/ML Engineering · Data Engineering · Data Science**
+### 💡 Open to Spring 2027 Co-op & FTE Opportunities
+**AI/ML Engineering · Data Engineering · Data Science · LLMOps**
 
-<i>Building intelligent systems where data, models, and infrastructure meet.</i>
+*Building intelligent systems where data, models, and infrastructure meet.*
 
 </div>
