@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About Me
 
-MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with over 2.5 years of industry experience at **PwC India** and **Wipro**, building enterprise automation, data pipelines, and intelligent systems across Azure, SQL Server, and Python.
+MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2.7 years of experience at **PwC India** building production data pipelines, enterprise applications, and intelligent systems across Azure, AWS, and Python.
 
-Building production-grade AI systems by combining deep learning, LLM applications, Agentic workflows, and scalable cloud-native ML infrastructure.
+Recent projects include a mortgage prepayment risk pipeline on AWS processing 6.99M records, an EV charging demand intelligence platform on Snowflake with dbt and Airflow, a LoRA fine-tuned Stable Diffusion model for synthetic medical imaging, and a RAG retrieval system using Pinecone and LangGraph with Claude API.
 
 <br clear="both">
 
@@ -29,13 +29,13 @@ class Nikhil:
     def __init__(self):
         self.role = "AI/ML & Data Engineer"
         self.education = "MS Data Analytics Engineering @ Northeastern"
-        self.experience = "Enterprise AI, Automation & Data Engineering"
-        self.current_focus = ["Deep Learning", "LLMs & Agentic AI", "Data Pipelines on AWS, Azure & GCP"]
+        self.experience = "Data Pipelines & AI/ML Engineering"
+        self.current_focus = ["LLMs & Agentic AI", "Data Pipelines on AWS & Azure", "Deep Learning"]
         self.focus = "Building production-grade AI systems with LLMOps & MLOps"
         self.fun_fact = "Built a bot so efficient it judges my file organization"
 
     def is_open_to_work(self):
-        return "Fall 2026 Co-ops: AI/ML, Data Engineering, Data Science"
+        return "Spring 2027 Co-op & FTE: Data Engineering, ML/AI Engineering, Data Science, LLMOps"
 ```
 
 <br clear="both">
@@ -46,19 +46,19 @@ class Nikhil:
 
 ### PwC India | Associate RPA Developer `Jul 2023 - Jul 2025`
 
-- Led migration of enterprise HCM automation from UiPath to Power Automate, processing 1,000+ records weekly across SQL Server and Azure
-- Built an end-to-end OCR invoice processing app on Microsoft Power Platform (PowerApps, Dataverse, AI Builder), cutting manual intervention by ~85%
-- Engineered the ingestion layer of a medallion architecture pipeline on Azure (Data Factory, Blob Storage, Databricks), delivering Power BI dashboards that reduced reporting effort by 70%
+- Architected a 4-bot data pipeline for enterprise HR record processing across 3 client deployments (12 bots total), ingesting from Azure Blob Storage into SQL Server with record-level state tracking and configuration-driven validation gates. Processed 1,000+ records weekly at 95% accuracy, reducing manual work by 70%
+- Engineered an end-to-end document processing application on Microsoft Power Platform handling multiple document types, with custom-trained AI Builder OCR models, event-driven orchestration, transformation routing into Dataverse tables, and Power BI semantic models with automated refresh. Reduced manual processing by ~85%
+- Constructed the ingestion layer of a medallion architecture for a Fortune 500 client across 4 regional engagements, extracting from heterogeneous source systems with Azure Key Vault credentials into Azure Blob Storage. Downstream: Azure Data Factory, Databricks transformations, SQL Server warehousing, Power BI dashboards. Reduced reporting by 70%
 
 ### PwC India | RPA Intern `Jan 2023 - Jul 2023`
 
-- Deployed UiPath-Python automations to extract structured data from 1,500+ PDFs using Tabula, regex, and Pandas
-- Built and maintained automated data extraction bots across client engagements, processing 500+ files weekly
+- Designed a 2-bot data reconciliation pipeline: daily master data retrieval + 3x daily reconciliation using Python (Tabula, Pandas) with regex-based dynamic section detection, schema validation against client-defined structures, and master-data comparison across 1,500+ PDFs. Improved accuracy by 40%, reduced manual effort by 90%
+- Developed an incremental data tracking system across 3 web portals and 3 client engagements with configuration-driven scheduling, building the master dataset from scratch with delta detection for new-entry identification. Processed 500+ files weekly, improved report turnaround by 80%
 
 ### Wipro Ltd | Summer Intern `Jun 2022 - Jul 2022`
 
-- Built an NLP text similarity module using Python vectorization techniques, achieving 96% accuracy
-- Created Tableau dashboards for duplicate report analysis, reducing redundant entries by 25%
+- Built an end-to-end NLP text similarity pipeline in Python using Word2Vec and TF-IDF on Amazon sales data via REST APIs, detecting duplicates at 96% accuracy
+- Created interactive Tableau dashboards to visualize reporting patterns, reducing redundant entries by 25%
 
 ---
 
