@@ -20,8 +20,9 @@
 
 MS Data Analytics Engineering student at **Northeastern University** (4.0 GPA) with 2.7 years of experience at **PwC India** building production data pipelines, enterprise applications, and intelligent systems across Azure, AWS, and Python.
 
-Recent projects include a mortgage prepayment risk pipeline on AWS processing 6.99M records, an EV charging demand intelligence platform on Snowflake with dbt and Airflow, a LoRA fine-tuned Stable Diffusion model for synthetic medical imaging, and a RAG retrieval system using Pinecone and LangGraph with Claude API.
+<br clear="both">
 
+Recent projects include a mortgage prepayment risk pipeline on AWS processing 6.99M records, an EV charging demand intelligence platform on Snowflake with dbt and Airflow, a LoRA fine-tuned Stable Diffusion model for synthetic medical imaging, and a RAG retrieval system using Pinecone and LangGraph with Claude API.
 <br clear="both">
 
 ```python
