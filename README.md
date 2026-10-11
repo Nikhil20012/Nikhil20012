@@ -47,14 +47,14 @@ class Nikhil:
 
 ### PwC India | Associate RPA Developer `Jul 2023 - Jul 2025`
 
-- Architected a 4-bot data pipeline for enterprise HR record processing across 3 client deployments (12 bots total), ingesting from Azure Blob Storage into SQL Server with record-level state tracking and configuration-driven validation gates. Processed 1,000+ records weekly at 95% accuracy, reducing manual work by 70%
-- Engineered an end-to-end document processing application on Microsoft Power Platform handling multiple document types, with custom-trained AI Builder OCR models, event-driven orchestration, transformation routing into Dataverse tables, and Power BI semantic models with automated refresh. Reduced manual processing by ~85%
+- Architected a distributed HR record pipeline for 3 client deployments: per-client dispatcher bots loaded files from Azure Blob Storage into each client's own SQL Server database and partitioned records round-robin across 3 shared VMs by environment ID, with each VM's processing bot handling only its assigned records and writing manager updates back into the client's HR system. Ran 12 bots (4 per client: dispatch, report download, processing, status reporting) in a conflict-free, time-boxed schedule I designed, with record-level state tracking, configuration-driven validation gates, and daily status reports to each client. Processed 1,000+ records weekly at 95% accuracy, reducing manual work by 70%
+- Engineered an end-to-end document processing application on Microsoft Power Platform handling multiple document types, with custom-trained AI Builder OCR models, event-driven orchestration, transformation routing into Dataverse tables (with a SharePoint variant for stakeholders without Power Platform licenses), and Power BI semantic models with automated refresh. Reduced manual processing by ~85%
 - Constructed the ingestion layer of a medallion architecture for a Fortune 500 client across 4 regional engagements, extracting from heterogeneous source systems with Azure Key Vault credentials into Azure Blob Storage. Downstream: Azure Data Factory, Databricks transformations, SQL Server warehousing, Power BI dashboards. Reduced reporting by 70%
 
 ### PwC India | RPA Intern `Jan 2023 - Jul 2023`
 
 - Designed a 2-bot data reconciliation pipeline: daily master data retrieval + 3x daily reconciliation using Python (Tabula, Pandas) with regex-based dynamic section detection, schema validation against client-defined structures, and master-data comparison across 1,500+ PDFs. Improved accuracy by 40%, reduced manual effort by 90%
-- Developed an incremental data tracking system across 3 web portals and 3 client engagements with configuration-driven scheduling, building the master dataset from scratch with delta detection for new-entry identification. Processed 500+ files weekly, improved report turnaround by 80%
+- Developed an incremental data tracking system across 3 web portals and 3 client engagements with Azure Key Vault credentials and configuration-driven scheduling, building the master dataset from scratch with delta detection for new-entry identification. Processed 500+ files weekly, improved report turnaround by 80%
 
 ### Wipro Ltd | Summer Intern `Jun 2022 - Jul 2022`
 
